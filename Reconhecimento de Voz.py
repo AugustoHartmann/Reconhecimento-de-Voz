@@ -17,5 +17,5 @@ def mic():
         frase = microfone.recognize_google(audio,language='pt-BR')
         print(frase)
         if frase == "Olá tudo bem":
-            print("Olá chefe")
+            print("Olá, comigo está tudo certo!")
 mic()
