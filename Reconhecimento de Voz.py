@@ -1,4 +1,4 @@
-#pip install SpeechRecognition
+pip install SpeechRecognition
 #baixar a versão adequada do PyAudio de {https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio}
 #pip install "diretório + nome do arquivo .whl"
 #https://medium.com/brasil-ai/reconhecimento-voz-python-35a5023767ca
