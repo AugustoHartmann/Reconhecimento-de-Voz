@@ -1,4 +1,5 @@
 pip install SpeechRecognition
+#A Biblioteca SpeechRecognition têm como dependencia 
 #baixar a versão adequada do PyAudio de {https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio}
 #--> Esta etapa é relativa a arquitetura do PC logo o download da Biblioteca PyAudio é feita de modo manual
 #pip install "diretório + nome do arquivo .whl"
