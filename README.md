@@ -1,4 +1,4 @@
-# Reconhecimento-de-Voz
+# Reconhecimento de Voz
 Repositório destinado a hospedar arquivos relacionados ao Reconhecimento de Voz
 
 # O que é?
